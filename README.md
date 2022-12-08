@@ -1,6 +1,24 @@
 # search-literatures-and-search-attachments
 The search results of the three Databases (PubMed, EMBase, Web of Sciencs). The same keywords, that is "sevoflurane and neurotoxicity", "sevoflurane and neurocognivite development", "sevoflurane and neuronal injury", "sevoflurane and learning", "sevoflurane and memory" were using in the retrieval process.
 
+## The Final Search Results of Different Keywords
+
+This folder includes the excles of all relevant literature searched from all the three databases by different keywords, respectively, with the duplicate literatures removed.
+
+## The Final Search Results of Each Database
+
+This folder includes the excles of all relevant literature searched by the same keywords under all the three databases, with the duplicate literatures removed.
+
+## The Final Search Results of Each Database
+
+The Excel Table named "Paper Search_All" include the all search results from the three databases using different keywords, with  the duplicate literatures removed.
+
+## The paper related to sevoflurane exposure
+The Excel Table named "The paper related to sevoflurane exposure" includes the all search results exactly discussing the fetal neurotoxicity induced by maternal sevoflurane exposure.
+
+
+
+
 ## Three Folders of Search Results from EMBase, PubMed and Web of Sciencs, respectively
 + Search Result (EMBase)
 
